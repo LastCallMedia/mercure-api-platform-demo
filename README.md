@@ -21,3 +21,4 @@ Referenced projects:
 * [mercure](https://github.com/dunglas/mercure)
 * [API Platform](https://github.com/api-platform/api-platform)
 * [client generator](https://github.com/api-platform/client-generator)
+* [EventSource polyfill](https://github.com/Yaffle/EventSource/)
