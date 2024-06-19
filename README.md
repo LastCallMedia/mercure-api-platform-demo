@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a demo project that's part of a video series I'll be publishing shortly.
+Mercure demo is brought to you by your friends at [Last Call Media](https://www.lastcallmedia.com), this is a demo project that's part of a video series I'll be publishing shortly.
 
 It shows mercure with a super-simple react frontend POSTing to API Platform and receiving live updates from the mercure hub.
 
